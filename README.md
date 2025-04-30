@@ -38,7 +38,7 @@ This project showcases various TypeScript utility functions that are commonly us
 1. Clone the repository
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/singhpoo/TypescriptRefresher.git
    cd TypescriptRefresher
    ```
 
